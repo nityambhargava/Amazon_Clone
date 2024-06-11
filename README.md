@@ -55,5 +55,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 nityambhargava@gmail.com
+
 Project Link: https://nityambhargava.github.io/Amazon_Clone/Amazon_Clone/Class/index.html
 ---
