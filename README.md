@@ -50,8 +50,6 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 4. Push to the branch (git push origin feature/AmazingFeature)
 5. Open a pull request
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
 nityambhargava@gmail.com
