@@ -15,6 +15,9 @@ Welcome to the Amazon Clone project! This project is a simplified version of the
 ## Demo
 Check out the live demo of the project at https://nityambhargava.github.io/Amazon_Clone/Amazon_Clone/Class/index.html.
 
+## Project Overview
+![image](https://github.com/nityambhargava/Amazon_Clone/assets/149382373/4a91ef4e-bb77-41a2-92ab-4d431334f0b8)
+
 ## Features
 Homepage Layout: Mimics the layout of Amazon's homepage, including header, footer, and main content sections.
 Product Listings: Displays a grid of products with images, titles, prices, and ratings.
